@@ -64,8 +64,8 @@ public class Main {
 //This is a class named Person. This is like a blue print. With this class, we can make multiple people.
 //This class won't store any memory.
 class Person{
-    //Static means that now "count" is a property of Class, not an object.
-    //This means we can access count without making an object.
+    //Static means that now "population" is a property of Class, not an object.
+    //This means we can access population without making an object.
     //If we want to make variables that are independent of objects, then we use static
     static int population;
     //We created a constructor here
